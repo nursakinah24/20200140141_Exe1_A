@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">To-Do App</string>
+    <string name="logName">Username</string>
+    <string name="logPassword">Password</string>
+    <string name="logLabel">Login Success</string>
+    <string name="txtregName">Ini username</string>
+    <string name="txtPassword">Ini Password</string>
+    <string name="btLogin">Log In</string>
+    <string name="txtAcc">Ini Register</string>
+    <string name="txtRegister">Register</string>
+    <string name="regName">Name</string>
+    <string name="regEmail">Email</string>
+    <string name="regPass">Password</string>
+    <string name="regRepass">Repass</string>
+    <string name="btRegister">Register</string>
+    <string name="regLabel">Register Success</string>
+    <string name="txtName">Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPass">Password</string>
+    <string name="txtRepass">RePassword</string>
+    <string name="fab">Button</string>
+    <string name="tvTitle">Title</string>
+    <string name="tvTask">Task</string>
+    <string name="tvtaskName">Task Name</string>
+    <string name="tvType">Type</string>
+    <string name="tvtypeName">Type Name</string>
+    <string name="tvTime">Time</string>
+    <string name="tvtimeName">Time Name</string>
+    <string name="mSubmit">Submit</string>
+    <string name="mLogout">Logout</string>
+</resources>
